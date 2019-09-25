@@ -16,3 +16,12 @@ Hold `shift`
 
 Hold `fn`
 
+## Set default command
+
+E.g., to make bash your default shell for tmux on a remote server
+
+```bash
+set -g default-command /bin/bash
+```
+
+([source](https://unix.stackexchange.com/a/214086))
