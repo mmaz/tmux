@@ -18,7 +18,7 @@ Hold `fn`
 
 ## Set default command
 
-E.g., to make bash your default shell for tmux on a remote server
+E.g., to make bash your default shell for tmux on a remote server, add this to `.tmux.conf`:
 
 ```bash
 set -g default-command /bin/bash
