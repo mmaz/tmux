@@ -1,5 +1,9 @@
 To copy & paste after scrolling up in a tmux window:
 
+`Cmd+R` (View->Hide/Allow mouse reporting)
+
+alternatively:
+
 `fn + option` -> `Cmd+C`
 
 https://stackoverflow.com/questions/12287432/how-to-copy-to-system-clipboard-from-tmux-output-after-mouse-selection
