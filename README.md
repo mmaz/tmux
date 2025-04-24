@@ -1,3 +1,6 @@
+
+## Mouse copy-paste on mac:
+
 To copy & paste after scrolling up in a tmux window:
 
 `Cmd+R` (View->Hide/Allow mouse reporting)
@@ -7,6 +10,10 @@ alternatively:
 `fn + option` -> `Cmd+C`
 
 https://stackoverflow.com/questions/12287432/how-to-copy-to-system-clipboard-from-tmux-output-after-mouse-selection
+
+## Mouse copy-paste on ubuntu:
+
+Hold `shift`
 
 Shortcuts to remember:
 
@@ -18,13 +25,6 @@ Shortcuts to remember:
 
 `:join-pane -t:{previous}`
 
-## Mouse copy-paste on ubuntu:
-
-Hold `shift`
-
-## Mouse copy-paste on mac:
-
-Hold `fn` or use `cmd+r` to disable passing mouse information into tmux
 
 ## Set default command
 
