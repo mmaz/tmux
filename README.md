@@ -25,6 +25,11 @@ Shortcuts to remember:
 
 `:join-pane -t:{previous}`
 
+## rotate through layouts
+
+`Ctrl-b` + `space`
+
+https://superuser.com/a/493057
 
 ## Set default command
 
