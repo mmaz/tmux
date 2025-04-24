@@ -24,7 +24,7 @@ Hold `shift`
 
 ## Mouse copy-paste on mac:
 
-Hold `fn`
+Hold `fn` or use `cmd+r` to disable passing mouse information into tmux
 
 ## Set default command
 
